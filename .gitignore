@@ -1,0 +1,36 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+#logs
+logs/
+stderr.log
+stdout.log
+sync.log
+
+
+#depoly
+deploy/
+com.telegram-notion-sync.plist
+
+#state
+state/
+imporrted.json
+state.json
+sync_state.json
+telegram_session.session
