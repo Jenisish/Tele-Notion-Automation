@@ -34,3 +34,6 @@ imporrted.json
 state.json
 sync_state.json
 telegram_session.session
+
+
+venv/
